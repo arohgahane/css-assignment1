@@ -1,0 +1,49 @@
+h1{
+    color: #DE3B2C;
+    /* border: 1px solid black; */
+}
+
+h2{
+    font-style: italic;
+    color: #DE3B2C;
+}
+
+.color{
+    color: #6D2929;
+}
+
+.strike{
+    
+    display: inline;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.back{
+    display: inline;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.under{
+    display: inline;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.font{
+    
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
+
+.para{
+    /* letter-spacing: 2px; */
+}
+
+.anchor{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+    color: #DE3B2C;
+}
